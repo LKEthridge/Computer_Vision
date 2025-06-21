@@ -26,3 +26,4 @@ This project demonstrates the potential of applied computer vision to streamline
 📚 Keras Library
 ## Installation & Usage
 * This project uses pandas, tensorflow, matplotlib.pyplot, and numpy.  It requires python 3.11.7.
+* Due to file upload limitations, I am unable to upload the dataset to GitHub.  However, it is from <a ref=https://chalearnlap.cvc.uab.cat/dataset/26/description/>ChaLearn Looking at People</a>
